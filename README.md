@@ -4,4 +4,8 @@ Dies ist ein Repository für die **TQ5**. Zum Ausprobieren von git/github und zu
 
 ## Foo
 
+* Foo
+* Bar
+* baz
+
 ## Bar
